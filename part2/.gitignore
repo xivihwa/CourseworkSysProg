@@ -1,0 +1,13 @@
+build/cmake_install.cmake
+build/CMakeCache.txt
+calculator.exe
+build/.ninja_log
+build/.ninja_deps
+build/calculator.exe
+build/CMakeFiles/3.31.1
+build/CMakeFiles/calc.dir
+build/CMakeFiles/pkgRedirects
+build/CMakeFiles/cmake.check_cache
+build/CMakeFiles/CMakeConfigureLog.yaml
+build/CMakeFiles/TargetDirectories.txt
+build/CMakeFiles/calculator.dir
